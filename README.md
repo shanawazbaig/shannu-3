@@ -1,6 +1,6 @@
 # 🤺 About Me:
 
-👋 Hi, I’m sainath reddy
+👋 Hi, I’m shanu
 .<br>👀 I’m interested in creating websites, bots, chrome extensions and algorithms.<br>🌱 I’m currently learning JavaScript, Python, LaTeX, and frameworks such as ReactJS.<br>📫 How to reach me ... Shanuwazbaig786@gmail.com<br>👦 Prounouns: he/him
 
 ## 🌐 Socials:
